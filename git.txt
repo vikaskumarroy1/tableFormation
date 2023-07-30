@@ -2,90 +2,61 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
-    <form>
-        <fieldset>
-        <legend>PersonalDetails</legend>
-   <label>Firstname</label>
-   <input type="text">
-   <br>
-   <br>
+    <h1>Cat photo App</h1>
+    <h2>car photo</h2>
+    <p>click ti view more<a href="">cat photos.(anchor tag)</a></p>
+    <img src="https://www.rd.com/wp-content/uploads/2021/04/GettyImages-988013222-scaled-e1618857975729.jpg" width="300px" height="300px">
+    <h2>Cat Lists</h2>
+    <h23>Things Cat love:</h3>
+    <ul>
+        <li>cat lip</li>
+        <li>laser pointers</li>
+        <li>lasagna</li>
+    </ul>
+    <img src="https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/249668.jpg?output-format=auto&output-quality=auto&resize=600:*" width="200px" height="200px">
+    <p>cats love lasagne</p>
+    <h3>Top 3 things cats hate</h3>
+    <ol type="1">
+        <li>flea problem</li>
+        <li>thunder</li>
+        <li>other cats</li>
 
-   <label>Middlename</label>
-   <input type="text">
-   <br>
-   <br>
+    </ol>
+    <img src="https://static01.nyt.com/images/2019/10/01/science/00SCI-CATS1/00SCI-CATS1-facebookJumbo.jpg?year=2019&h=549&w=1050&s=a12758d1b750010957f6d8dcafd0fb707ac2f98675c4cd264adc01b93205d41e&k=ZQJBKqZ0VN" width="300px" height="300px">
+    <h2>cat table</h2>
+    <table border="collapse">
+        <th>
+        <tr>
+            
+                <th>cat1</th>
+                <th>car2</th>
+                <th>cat3</th>
 
-   <label>Lastname</label>
-   <input type="text">
-   <br>
-   <br>
-   <label>Course</label>
-   <select>
-    <option>Course:</option>
-    <option>BBA</option>
-    <option>MBA</option>
-    <option>B.tech</option>
-   </select>
+           
+        </tr>
+    </th>
+        <tr>
+            <td  rowspan="2">Cat-row 1 Cat-col 1</td>
+            <td>Cat-row 1 Cat-col 2</td>
+            <td>Cat-row 1 Cat-col 3</td>
+        </tr>
+        <tr>
+            <td>Cat-row 2 Cat-col 2</td>
+            <td>Cat-row 2 Cat-col 3</td>
+        </tr>
+        <tr>
+            <td colspan="3">Cat-row 3 Cat-col 1</td>
+        </tr>
 
-   <br>
-   <br>
-   <labe>Gender:</labe>
-   <br>
+        
+    </table>
 
-<input type="radio" name="Gender" value="male">male
-<br>
-<input type="radio" name="Gender" value="female">female
-<br>
-
-<input type="radio" name="Gender" value="other">other
-<br>
-<br>
-
-   <label>Dob</label>
-   <input type="date">
-   <br>
-   <br>
-   <labe>Phone</labe>
-   <input type="text">
-   <br>
-   <br>
-   <label>Address</label>
-   <br>
-   <textarea rows="20" cols="15"></textarea>
-   <br>
-   <br>
-   <label>Email:</label>
-   <input type="Email">
-   <br>
-   <br>
-   <label>Password</label>
-   <input type="password">
-   <br>
-   <br>
-   <label>Re-type password</label>
-   <input type="password">
-   <br>
-   <br>
-   <input type="checkbox">
-   <label> Agree to terms and conditions</label>
-   <br>
-   <br>
-   <label>Choose file</label>
-   <input type="file">
-   <br>
-   <br>
-   <label>Choose Color</label>
-   <input type="color">
-   <br>
-   <br>
-   <input type="button"value="Sumbit">
-   <input type="button"value="Reset">
-</fieldset>
-</form>
+<h2>Summery</h2>
+<p><strong> This is strong tag</strong>Lorem ipsum dolor sit amet<b>This is b tag</b> tagconsectetur adipisicing elit. Dolores <i>This is i tag</i> tag quo ad dolor illum nam delectus error pariatur placeat eaque dolore aliquam fuga unde consequatur This is em tag sed voluptatibus harum, laudantium a cupiditate eveniet natus amet nostrum ab numquam. Nihil, pariatur a? Obcaecati minus, dignissimos optio qui atque repellendus mollitia aliquid recusandae omnis!</p>
 
 
 </body>
