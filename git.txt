@@ -2,45 +2,91 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
-    <h5>Personal details</h5>
-    <h5>salution</h5>
-    <form action="">
-        <select name="--None">
-            <option value="">--None--</option>
-            <option value="">Mr.</option>
-            <option value="">Mrs.</option>
+    <form>
+        <fieldset>
+        <legend>PersonalDetails</legend>
+   <label>Firstname</label>
+   <input type="text">
+   <br>
+   <br>
 
-        </select>
-        <br>
-        <br>
-        
-        <label for="">First Name:</label> 
-     <input type="text" placeholder="abcd">
-<br>
-<br>
-<label for="">Last Name:</label>
-<input type="text" placeholder="abce"> 
-<br>
-<label for="">Gender:</label>
+   <label>Middlename</label>
+   <input type="text">
+   <br>
+   <br>
+
+   <label>Lastname</label>
+   <input type="text">
+   <br>
+   <br>
+   <label>Course</label>
+   <select>
+    <option>Course:</option>
+    <option>BBA</option>
+    <option>MBA</option>
+    <option>B.tech</option>
+   </select>
+
+   <br>
+   <br>
+   <labe>Gender:</labe>
+   <br>
+
 <input type="radio" name="Gender" value="male">male
-<input type="radio" name="Gender" value="male">female
 <br>
+<input type="radio" name="Gender" value="female">female
 <br>
-<label for="">Email:</label>
-<input type="Email" placeholder="abce@gmail.com">
+
+<input type="radio" name="Gender" value="other">other
 <br>
 <br>
 
-<label for="">date of birth:</label>
-<input type="date">
-<br>
+   <label>Dob</label>
+   <input type="date">
+   <br>
+   <br>
+   <labe>Phone</labe>
+   <input type="text">
+   <br>
+   <br>
+   <label>Address</label>
+   <br>
+   <textarea rows="20" cols="15"></textarea>
+   <br>
+   <br>
+   <label>Email:</label>
+   <input type="Email">
+   <br>
+   <br>
+   <label>Password</label>
+   <input type="password">
+   <br>
+   <br>
+   <label>Re-type password</label>
+   <input type="password">
+   <br>
+   <br>
+   <input type="checkbox">
+   <label> Agree to terms and conditions</label>
+   <br>
+   <br>
+   <label>Choose file</label>
+   <input type="file">
+   <br>
+   <br>
+   <label>Choose Color</label>
+   <input type="color">
+   <br>
+   <br>
+   <input type="button"value="Sumbit">
+   <input type="button"value="Reset">
+</fieldset>
+</form>
 
-    </form>
-    
+
 </body>
 </html>
