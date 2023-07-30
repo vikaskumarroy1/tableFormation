@@ -2,62 +2,52 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
-    <h1>Cat photo App</h1>
-    <h2>car photo</h2>
-    <p>click ti view more<a href="">cat photos.(anchor tag)</a></p>
-    <img src="https://www.rd.com/wp-content/uploads/2021/04/GettyImages-988013222-scaled-e1618857975729.jpg" width="300px" height="300px">
-    <h2>Cat Lists</h2>
-    <h23>Things Cat love:</h3>
-    <ul>
-        <li>cat lip</li>
-        <li>laser pointers</li>
-        <li>lasagna</li>
-    </ul>
-    <img src="https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/249668.jpg?output-format=auto&output-quality=auto&resize=600:*" width="200px" height="200px">
-    <p>cats love lasagne</p>
-    <h3>Top 3 things cats hate</h3>
-    <ol type="1">
-        <li>flea problem</li>
-        <li>thunder</li>
-        <li>other cats</li>
-
-    </ol>
-    <img src="https://static01.nyt.com/images/2019/10/01/science/00SCI-CATS1/00SCI-CATS1-facebookJumbo.jpg?year=2019&h=549&w=1050&s=a12758d1b750010957f6d8dcafd0fb707ac2f98675c4cd264adc01b93205d41e&k=ZQJBKqZ0VN" width="300px" height="300px">
-    <h2>cat table</h2>
     <table border="collapse">
-        <th>
+        <caption> VISIT LINK</caption>
+        <tr>
+        <th >IMAGE</th>
+        <th>CARS</th>
+        <th>DESCRAPTION</th>
+        </tr>
         <tr>
             
-                <th>cat1</th>
-                <th>car2</th>
-                <th>cat3</th>
-
-           
-        </tr>
-    </th>
-        <tr>
-            <td  rowspan="2">Cat-row 1 Cat-col 1</td>
-            <td>Cat-row 1 Cat-col 2</td>
-            <td>Cat-row 1 Cat-col 3</td>
-        </tr>
-        <tr>
-            <td>Cat-row 2 Cat-col 2</td>
-            <td>Cat-row 2 Cat-col 3</td>
-        </tr>
-        <tr>
-            <td colspan="3">Cat-row 3 Cat-col 1</td>
+                <th colspan="3">car</th>
+            
         </tr>
 
-        
+    <td><img src="https://vid.alarabiya.net/images/2023/04/12/2d220739-e6e3-4f4a-86f0-672691659959/2d220739-e6e3-4f4a-86f0-672691659959.jpg "width="200px" height="200px"></td>
+    <td><p>	
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur quidem voluptate repellat ratione nam. Ipsam nisi fugit a dolorum. Quia, necessitatibus. Eos nulla maiores reiciendis. Perspiciatis, officia, veniam maiores culpa modi adipisci nisi expedita nobis nostrum recusandae amet. Accusantium animi nostrum consequuntur similique illo commodi ullam asperiores blanditiis ducimus placeat!
+    </p></td>
+    <td><a href="https://vid.alarabiya.net/images/2023/04/12/2d220739-e6e3-4f4a-86f0-672691659959/2d220739-e6e3-4f4a-86f0-672691659959.jpg">Link</a></td>
+</tr>
+<tr>
+    
+        <th colspan="3">Watches </th>
+    
+</tr>
+
+    <td><img src="https://www.fashionbeans.com/wp-content/uploads/2016/11/expensivewatchestop1.jpg" width="200px" height="200px"></td>
+    <td><p>	
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur quidem voluptate repellat ratione nam. Ipsam nisi fugit a dolorum. Quia, necessitatibus. Eos nulla maiores reiciendis. Perspiciatis, officia, veniam maiores culpa modi adipisci nisi expedita nobis nostrum recusandae amet. Accusantium animi nostrum consequuntur similique illo commodi ullam asperiores blanditiis ducimus placeat!</p></td>
+        <td><a href="https://www.fashionbeans.com/wp-content/uploads/2016/11/expensivewatchestop1.jpg">Link</a></td>
+
+</tr>
+<tr>
+    
+        <th colspan="3">shoes</th>
+    
+</tr>
+<tr>
+    <td><img src="https://media.gettyimages.com/id/172417586/photo/elegant-black-leather-shoes.jpg?s=612x612&w=gi&k=20&c=_HiU2PSG-krAT5-QIlDskHEhmXOTYQzSushSW51F25c=" width="200px" height="200px"></td>
+    <td><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur quidem voluptate repellat ratione nam. Ipsam nisi fugit a dolorum. Quia, necessitatibus. Eos nulla maiores reiciendis. Perspiciatis, officia, veniam maiores culpa modi adipisci nisi expedita nobis nostrum recusandae amet. Accusantium animi nostrum consequuntur similique illo commodi ullam asperiores blanditiis ducimus placeat!</p></td>
+    <td><a href="https://media.gettyimages.com/id/172417586/photo/elegant-black-leather-shoes.jpg?s=612x612&w=gi&k=20&c=_HiU2PSG-krAT5-QIlDskHEhmXOTYQzSushSW51F25c">link</a></td>
+</tr>
     </table>
-
-<h2>Summery</h2>
-<p><strong> This is strong tag</strong>Lorem ipsum dolor sit amet<b>This is b tag</b> tagconsectetur adipisicing elit. Dolores <i>This is i tag</i> tag quo ad dolor illum nam delectus error pariatur placeat eaque dolore aliquam fuga unde consequatur This is em tag sed voluptatibus harum, laudantium a cupiditate eveniet natus amet nostrum ab numquam. Nihil, pariatur a? Obcaecati minus, dignissimos optio qui atque repellendus mollitia aliquid recusandae omnis!</p>
-
-
+    
 </body>
 </html>
